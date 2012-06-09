@@ -5,7 +5,7 @@
 	<artifactId>freemarker</artifactId>
 	<packaging>jar</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Freemarker - Início Rápido</name>
+	<name>Freemarker</name>
 	<url>http://freemarker.javaframeworks.com.br</url>
 
 	<build>
